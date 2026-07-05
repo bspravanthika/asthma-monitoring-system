@@ -47,11 +47,11 @@ The ESP8266 continuously reads data from the MQ2, MQ135, and DS18B20 sensors. Wh
 
 ### Prototype
 
-![Prototype](prototype.jpg)
+![Prototype](prototype.jpeg)
 
 ### Circuit Diagram
 
-![Circuit Diagram](circuit-diagram.jpg)
+![Circuit Diagram](circuit-diagram.jpeg)
 
 ## Author
 
